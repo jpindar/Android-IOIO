@@ -45,7 +45,8 @@ public class MainActivity extends IOIOActivity {
 		 * Called every time a connection with IOIO has been established.
 		 * Typically used to open pins.
 		 * 
-		 * @throws ConnectionLostException when IOIO connection is lost.
+		 * @throws ConnectionLostException
+		 *             When IOIO connection is lost.
 		 * 
 		 * @see ioio.lib.util.AbstractIOIOActivity.IOIOThread#setup()
 		 */
@@ -57,7 +58,8 @@ public class MainActivity extends IOIOActivity {
 		/**
 		 * Called repetitively while the IOIO is connected.
 		 * 
-		 * @throws ConnectionLostException when IOIO connection is lost.
+		 * @throws ConnectionLostException
+		 *             When IOIO connection is lost.
 		 * 
 		 * @see ioio.lib.util.AbstractIOIOActivity.IOIOThread#loop()
 		 */
