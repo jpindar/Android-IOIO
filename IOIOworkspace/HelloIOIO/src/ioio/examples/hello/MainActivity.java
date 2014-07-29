@@ -19,10 +19,6 @@ import android.widget.ToggleButton;
 public class MainActivity extends IOIOActivity {
 	private ToggleButton button_;
 
-	/**
-	 * Called when the activity is first created. Here we normally initialize
-	 * our GUI.
-	 */
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -56,9 +52,8 @@ public class MainActivity extends IOIOActivity {
 
 		/**
 		 * Called repetitively while the IOIO is connected.
-		 * 
+		 * Note the lack of an OnClickListener
 		 * @throws ConnectionLostException when IOIO connection is lost.
-		 * 
 		 * @see ioio.lib.util.AbstractIOIOActivity.IOIOThread#loop()
 		 */
 		@Override
