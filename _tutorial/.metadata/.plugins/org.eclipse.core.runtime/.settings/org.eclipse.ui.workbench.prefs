@@ -1,5 +1,7 @@
 ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.jdt.ui.presentation\tTorg.eclipse.wst.sse.ui
 ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.jdt.ui.PropertiesFileEditor.textfont
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.cdt.codan.ui.cxx;org.eclipse.equinox.p2.ui.sdk.scheduler;
 eclipse.preferences.version=1
 org.eclipse.jface.dialogfont=1|Segoe UI|11.781818|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI;
 org.eclipse.jface.textfont=1|Consolas|13.745455|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands/>

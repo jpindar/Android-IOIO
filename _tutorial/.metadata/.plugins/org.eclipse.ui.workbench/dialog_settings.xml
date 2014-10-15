@@ -13,8 +13,8 @@
 		</list>
 	</section>
 	<section name="WorkbenchPreferenceDialogSettings">
-		<item value="161" key="DIALOG_Y_ORIGIN"/>
-		<item value="578" key="DIALOG_X_ORIGIN"/>
+		<item value="92" key="DIALOG_Y_ORIGIN"/>
+		<item value="206" key="DIALOG_X_ORIGIN"/>
 	</section>
 	<section name="ShowViewDialog">
 		<item value="365" key="DIALOG_WIDTH"/>
@@ -22,5 +22,10 @@
 		<item value="470" key="DIALOG_HEIGHT"/>
 		<item value="717" key="DIALOG_X_ORIGIN"/>
 		<item value="1|Segoe UI|9.163636|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+		<item value="true" key="uncategorizedFilter"/>
+		<item value="true" key="internalFilter"/>
+		<item value="true" key="actionSetFilter"/>
 	</section>
 </section>
